@@ -1,4 +1,4 @@
-# Saas Landing Page
+# Light Saas Landing Page
 
 This is an exploration project in the form of a landing page with a little touch of parallax effect.
 
